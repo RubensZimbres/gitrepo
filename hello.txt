@@ -1,6 +1,4 @@
 test 22
 pppppppppppppppppppppppppppppp
-
-
-alter master
-alter master22
+alter master2
+alter2 develop22
